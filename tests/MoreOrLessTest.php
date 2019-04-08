@@ -4,7 +4,7 @@ namespace Tests;
 
 use PHPUnit\Framework\TestCase;
 
-class moreOrLessTest extends TestCase
+class MoreOrLessTest extends TestCase
 {
     public function positiveDataProvider()
     {

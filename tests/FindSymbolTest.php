@@ -4,7 +4,7 @@ namespace Tests;
 
 use PHPUnit\Framework\TestCase;
 
-class findSymbolTest extends TestCase
+class FindSymbolTest extends TestCase
 {
     public function positiveDataProvider()
     {

@@ -4,7 +4,7 @@ namespace Tests;
 
 use PHPUnit\Framework\TestCase;
 
-class sumNumbersTest extends TestCase
+class SumNumbersTest extends TestCase
 {
     public function positiveDataProvider()
     {

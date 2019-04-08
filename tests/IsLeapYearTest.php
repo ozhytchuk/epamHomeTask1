@@ -4,7 +4,7 @@ namespace Tests;
 
 use PHPUnit\Framework\TestCase;
 
-class isLeapYearTest extends TestCase
+class IsLeapYearTest extends TestCase
 {
     public function positiveDataProvider()
     {
