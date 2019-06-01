@@ -13,7 +13,7 @@ class IsLeapYearTest extends TestCase
             [2004],
             [2008],
             [2012],
-            [2014],
+            [2016],
         ];
     }
 
